@@ -62,66 +62,6 @@
   }
 }
 
-.box-type2 {
-  >article {
-    width: 100%;
-
-    +article {
-      margin: 16px 0 0 0;
-    }
-  }
-}
-
-// 툴팁
-// [data-tooltip] {
-//   >div {
-//     position: absolute;
-//     display: none;
-//     left: 0;
-//     bottom: 48px;
-//     width: 100%;
-//     padding: 8px;
-//     border: 1px solid $line1;
-//     border-radius: 8px;
-//     background: #000;
-//     word-break: break-all;
-//   }
-  
-//   &.active {
-    
-//     >div {
-//       display: block;
-//       z-index: 10;
-//     }
-//   }
-// }
-
-// pre 코드
-.code {
-  margin-top: 24px;
-  text-align: left;
-
-  +.code {
-    margin-top: 16px;
-  }
-
-  pre {
-    max-height: 400px;
-  }
-}
-
-// 스크롤 트리거
-[data-scroll] {
-  opacity: 0;
-  transform: translateY(30px);
-  transition: all 0.5s ease;
-
-  &.active {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
 .animated {
   opacity: 0;
   transform: translateY(30px);
@@ -130,15 +70,6 @@
   &.fadeIn {
     opacity: 1;
     transform: translateY(0);
-  }
-}
-
-.about {
-
-  @media screen and (max-width: 1120px) {
-    .tit-sub1 {
-      text-align: center;
-    }
   }
 }
 
