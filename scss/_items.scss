@@ -73,30 +73,28 @@
 }
 
 // 툴팁
-[data-tooltip] {
-  // position: relative;
-
-  >div {
-    position: absolute;
-    display: none;
-    left: 0;
-    bottom: 48px;
-    width: 100%;
-    padding: 8px;
-    border: 1px solid $line1;
-    border-radius: 8px;
-    background: #000;
-    word-break: break-all;
-  }
+// [data-tooltip] {
+//   >div {
+//     position: absolute;
+//     display: none;
+//     left: 0;
+//     bottom: 48px;
+//     width: 100%;
+//     padding: 8px;
+//     border: 1px solid $line1;
+//     border-radius: 8px;
+//     background: #000;
+//     word-break: break-all;
+//   }
   
-  &.active {
+//   &.active {
     
-    >div {
-      display: block;
-      z-index: 10;
-    }
-  }
-}
+//     >div {
+//       display: block;
+//       z-index: 10;
+//     }
+//   }
+// }
 
 // pre 코드
 .code {

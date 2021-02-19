@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{ZK1b:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),c=a.n(n),s=a("Kvkj");t.default=function(){return c.a.createElement(s.a,{align:"center"},c.a.createElement("section",{className:"section-type1"},c.a.createElement("h2",{className:"tit-sub1"},"우리은행 마이데이터 구축"),c.a.createElement("p",{className:"txt-p"},"프로젝트 진행 중입니다.")))}}}]);
+//# sourceMappingURL=component---src-pages-works-9-index-jsx-63c6227baa21bdae64e9.js.map
