@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{ZK1b:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a),r=t("Kvkj");n.default=function(){return c.a.createElement(r.g,{align:"center"},c.a.createElement(r.i,{title:"우리은행 마이데이터 구축"},c.a.createElement("p",null,"프로젝트 진행 중입니다.")))}}}]);
+//# sourceMappingURL=component---src-pages-works-9-index-jsx-c6bacb83fcb651587389.js.map
